@@ -28,11 +28,15 @@ Firstly, the number of retiring employees was calculated by merging the csv file
 
 We can see that the number of employees eligible for retirement is as follows:
 
-(insert image)
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/number_of_retiring_employees.PNG> 
+</p>
 
 and the number of employees eligible for retirement by job title is as follows:
 
-(insert image)
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/retiring_count_by_title.PNG> 
+</p>
 
  
 ### Employees Eligible for the Mentorship Program
@@ -41,13 +45,19 @@ Mentorship eligibilty was determined based on the following criteria:
 
 - Employees born between January 1st 1965 and December 31st 1965
 
-One possible solution for the impending increase in employees retireing at PH is to introduct a mentorship program in which retired employees can then train the next generation of PW. Eligibility for the mentorship program was calculated based on the following criteria:
+One possible solution for the impending increase in employees retiring at PH is to introduce a mentorship program in which retired employees can then train the next generation of PH.
 
--
--
+We can see that the number of employees eligible for the mentorship program is as follows:
 
-A total listing of employees elegible for the mentorship program have been determined and listed in (fill in.csv)
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/eligible_mentorship_program%20_count.PNG> 
+</p>
 
+and the number of employees eligible for the mentorship program by job title is as follows:
+
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/mentorship_eligibility_by_department.PNG> 
+</p>
 
 ## Summary
 
@@ -58,7 +68,9 @@ From our merged csv retiring_titles.csv, outlined in the results section above, 
 
 This number varies by job title, as seen in the chart below:
 
-(insert picture)
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/retiring_count_by_title.PNG> 
+</p>
 
 **_Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_**
 
