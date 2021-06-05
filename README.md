@@ -25,7 +25,7 @@ Retirement eligibilty was determined based on the following criteria:
 - Employees born between January 1st 1952 and December 31st 1955
 
 
-Firstly, the number of retiring employees was calculated by merging the csv files employees.csv, titles.csv, and dept_employees.csv and filtering them based on the retirement criteria (see retirement_titles.csv). Then any duplicate rows were dropped (see unique_titles.csv).
+Firstly, the number of retiring employees was calculated by merging the csv files employees.csv, titles.csv, and dept_employees.csv, and filtering them based on the retirement criteria (see retirement_titles.csv). Then any duplicate rows were dropped (see unique_titles.csv).
 
 We can see that the number of employees eligible for retirement is as follows:
 
