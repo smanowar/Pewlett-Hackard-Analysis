@@ -3,19 +3,44 @@
 ## Overview 
 
 ### Purpose
-As many current employees at Pewlett-Hackard are reaching retirement age, the purpose of this analysis is to determine the number of employees expected to retire, as well to create solutions to soften the impact of the impeding 'silver tsumani'. One such solution proposed is an employee mentorship program where employees that are elegible for retirement can drop to part-time status and mentor the new employees instead of retiring, thus softening the impact of a large retirement at once.  
+As many current employees at Pewlett-Hackard are reaching retirement age, the purpose of this analysis is to determine the number of employees expected to retire, determine the expected amount of retiring employees by department, and to analyze the feasibility of solutions to soften the impact of the exit such a large number of employees. 
 
-Taking employee data from the csv files -.csv, -.csv, and -.csv, using SQL and PgAdmin we will determine the number of total employees elegible for retirement by their job title, as well as the number of employees elegible for a potential mentorship program, which will be outlined in the Results section below.
+One such solution proposed is an employee mentorship program, where employees that are elegible for retirement can drop to part-time status and mentor new employees instead of retiring, thus softening the impact of a large number of employees retiring at once.  
+
+Using SQL and PgAdmin, taking employee data from the csv files employees.csv, titles.csv, and dept_employees.csv we will determine:
+
+- the number of total employees eligible for retirement
+- the number of total employees eligible for retirement by their job title
+- the number of employees eligible for the proposed mentorship program
+- the number of employees eligible for the proposed mentorship program by job title
 
 
 ## Results 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+Pewlett-Hackard has a total staff count of x. Below we will determine the number of employees that meet retirement eligibility, as well as the number of employees that meet eligibility for the proposed mentorship program.
 
 ### Total Figure of Employees Eligible for Retirement
 
-Firstly, the number of retiring employees was calculated by their job title (fill in.csv). This was done by merging the csv files x, y, and z, and filtering them on the constraint "employees born between x and y"
+Retirement eligibilty was determined based on the following criteria:
 
+- Employees born between January 1st 1952 and December 31st 1955
+
+Firstly, the number of retiring employees was calculated by merging the csv files employees.csv, titles.csv, and dept_employees.csv and filtering them based on the retirement criteria (see retirement_titles.csv). Then any duplicate rows were dropped (see unique_titles.csv).
+
+We can see that the number of employees eligible for retirement is as follows:
+
+(insert image)
+
+and the number of employees eligible for retirement by job title is as follows:
+
+(insert image)
+
+ 
 ### Employees Eligible for the Mentorship Program
+
+Mentorship eligibilty was determined based on the following criteria:
+
+- Employees born between January 1st 1965 and December 31st 1965
+
 One possible solution for the impending increase in employees retireing at PH is to introduct a mentorship program in which retired employees can then train the next generation of PW. Eligibility for the mentorship program was calculated based on the following criteria:
 
 -
