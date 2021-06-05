@@ -50,12 +50,12 @@ A total listing of employees elegible for the mentorship program have been deter
 
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 **_How many roles will need to be filled as the "silver tsunami" begins to make an impact?_**
 
 The "silver tsunami" is defined as, "a metaphor, used to describe the expected increase in the senior population" (definition cited from:https://www.leisurecare.com/resources/silver-tsunami-senior-living/) 
-From our merged csv (fill in), we can see that the number of roles that will need to be filled as the silver tsumani makes an impact is (fill in).
+From our merged csv retiring_titles.csv, outlined in the results section above, we can see that the number of roles that will need to be filled as the silver tsumani makes an impact is (fill in).
+
 This number varies by job title, as seen in the chart below:
 
 (insert picture)
