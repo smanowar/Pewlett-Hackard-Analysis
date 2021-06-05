@@ -3,9 +3,9 @@
 ## Overview 
 
 ### Purpose
-As many current employees at Pewlett-Hackard are reaching retirement age, the purpose of this analysis is to determine the number of employees expected to retire, determine the expected amount of retiring employees by department, and to analyze the feasibility of solutions to soften the impact of the exit such a large number of employees. 
+As many current employees at Pewlett-Hackard are reaching retirement age, the purpose of this analysis is to determine the number of employees expected to retire, determine the expected amount of retiring employees by department, and to analyze the feasibility of solutions to soften the impact of the exit such a large number of employees to train the new workforce.. 
 
-One such solution proposed is an employee mentorship program, where employees that are elegible for retirement can drop to part-time status and mentor new employees instead of retiring, thus softening the impact of a large number of employees retiring at once.  
+One such solution proposed is an employee mentorship program, where current employees can mentor new staff.  
 
 Using SQL and PgAdmin, taking employee data from the csv files employees.csv, titles.csv, and dept_employees.csv we will determine:
 
