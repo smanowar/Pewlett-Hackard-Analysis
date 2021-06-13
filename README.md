@@ -85,4 +85,27 @@ To find out if there are enough retirement-ready employees in the departments to
 <img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/mentorship_eligibility_by_department.PNG> 
 </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Positions to Fill** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Employees Eligible for Mentorship Program**
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Positions to Fill** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Employees Eligible for Mentorship Program**
+<br><br>
+
+From the charts we can see that the amount of roles needing to be filled vastly outnumbers the amount of employees eligible for the mentorship program. 
+
+Taking a closer look at the results, we can see that the greatest number of roles to fill are in the senior positions of Senior Engineer and Senior Staff, with 412 and 390 employees eligible for the mentorship program respectivley. 
+
+Next are the positions of regular staff and regular engineer, with 312 and 390 employees eligible for the mentorship program respectivley.
+
+Taking a look at the results with a breakdown by department:
+
+- Senior Engineer: 29,414 roles to be filled vs. 297 eligible for the mentorship program
+- Senior Staff: 28,254 roles to be filled vs. 412 eligible for the mentorship program
+- Engineer: 14,222 roles to be filled vs. 390 eligible for the mentorship program
+- Staff: 12,243 roles to be filled vs. 312 eligible for the mentorship program
+- Technique Leader: 4502 roles to be filled vs. 77 eligible for the mentorship program
+- Assistant Engineer: 1761 roles to be filled vs. 61 eligible for the mentorship program
+- Manager: 2 roles to be filled vs. no employees eligible for the mentorship program
+
+Because the number of roles to be replaced vastly outnumbers the about of employees eligible for the mentorship program by department, in order to get the mentorship program to work some adjuments need to be made:
+
+- one of which could be to expand the range for which employees would be eligible for the mentorship program, allowing for more potential mentors
+
+- another solution could be to to fill the senior positions with internal hires or promotions. This would fill the positions which are most in demand with employees who have already been aquainted with the daily tasks, roles, and software of the company - therefore, posing less of a need for mentorship in those areas. Then the employees eligible for the mentorship program can be grouped (Senior Staff and Staff mentors training new Staff hires, and Senior Engineer and Engineer mentors traning new Engineer hires)
