@@ -65,8 +65,9 @@ and the number of employees eligible for the mentorship program by job title is 
 
 **_How many roles will need to be filled as the "silver tsunami" begins to make an impact?_**
 
-The "silver tsunami" is defined as, "a metaphor, used to describe the expected increase in the senior population" (definition cited from:https://www.leisurecare.com/resources/silver-tsunami-senior-living/) 
-From our merged csv retiring_titles.csv, outlined in the results section above, we can see that the number of roles that will need to be filled as the silver tsumani makes an impact is (fill in).
+The "silver tsunami" is defined by *leisurecare.com* as: "a metaphor, used to describe the expected increase in the senior population" (source: https://www.leisurecare.com/resources/silver-tsunami-senior-living/)
+
+From our merged csv, retiring_titles.csv, as outlined in the results section above we can see that the number of roles that will need to be filled as the silver tsumani makes an impact is 90,393 roles.
 
 This number varies by job title, as seen in the chart below:
 
@@ -76,3 +77,12 @@ This number varies by job title, as seen in the chart below:
 
 **_Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_**
 
+To find out if there are enough retirement-ready employees in the departments to mentor the next genetation of Pewlett Hackard employees, we will compare the retirement by job titles chart, and the employees eligible for the mentorship program by job title chart:
+<br>
+<br>
+<p align="center">
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/retiring_count_by_title.PNG> 
+<img src=https://github.com/smanowar/Pewlett-Hackard-Analysis/blob/main/visuals/mentorship_eligibility_by_department.PNG> 
+</p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Positions to Fill** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Employees Eligible for Mentorship Program**
